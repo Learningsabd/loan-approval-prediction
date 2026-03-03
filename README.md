@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)](https://scikit-learn.org/)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-LINK-HERE.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://loan-approval-prediction-wh9qmbcp3dw8tncq8vhlax.streamlit.app/)
 
 ## 📝 Project Overview
 This project aims to automate the loan eligibility process based on customer details provided during the online application. By using Machine Learning, we can predict whether a loan will be **Approved** or **Rejected** with high precision, helping financial institutions minimize risk.
