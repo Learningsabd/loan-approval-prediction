@@ -9,7 +9,7 @@ This project aims to automate the loan eligibility process based on customer det
 
 ### 🚀 Key Achievements:
 * **Final Model:** Support Vector Machine (SVC)
-* **Accuracy:** 98.75% 
+* **Accuracy:** 98.94% 
 * **Data State:** Perfectly Balanced (50/50 ratio of Approved vs Rejected)
 * **Tuning:** Optimized via GridSearchCV
 
