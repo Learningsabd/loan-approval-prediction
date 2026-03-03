@@ -41,7 +41,7 @@ I compared multiple algorithms to find the most robust solution:
 On further cross-validation of SVC, KNN and Random Forest on different fols of dataset (cv = 5), following results were obtained:
 
 | Model | Accuracy (%) |  Standard Deviation (%)  |
-| :--- | :--- | | :--- | :--- | | :--- | :--- |
+| :--- | :--- | :--- | 
 | **SVC (SVM)** | **98.31%** | **0.32%** |
 | Random Forest | 98.27% | 0.38% |
 | KNN (k=5) | 97.96% | 0.42% |
