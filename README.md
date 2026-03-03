@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)](https://scikit-learn.org/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-LINK-HERE.streamlit.app)
 
 ## 📝 Project Overview
 This project aims to automate the loan eligibility process based on customer details provided during the online application. By using Machine Learning, we can predict whether a loan will be **Approved** or **Rejected** with high precision, helping financial institutions minimize risk.
@@ -66,3 +67,4 @@ The visualization shows a clear separation between classes, proving the model ha
 1. Clone the repo: `git clone https://github.com/Learningsabd/loan-prediction.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook: `jupyter notebook Loan_Approval_Prediction.ipynb`
+4. Run the app: `streamlit run app.py`
